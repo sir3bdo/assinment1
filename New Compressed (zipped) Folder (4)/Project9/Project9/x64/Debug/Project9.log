@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(18,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(18,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(18,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(18,11): message : this argument is used as a buffer size
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(29,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(29,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(29,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\gaming.h(29,10): message : this argument is used as a buffer size
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\write.h(49,10): warning C4033: 'deQueue' must return a value
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\Source.c(35,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\Source.c(35,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\Source.c(35,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\Source.c(35,17): message : this argument is used as a buffer size
+C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\Project9\write.h(57): warning C4715: 'deQueue': not all control paths return a value
+  Project9.vcxproj -> C:\Users\ahmed\Downloads\animal game\New Compressed (zipped) Folder (4)\Project9\x64\Debug\Project9.exe
